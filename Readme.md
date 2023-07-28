@@ -39,11 +39,11 @@ Agora, todos os microsserviços estarão em execução e prontos para receber so
 **Endpoints dos Microsserviços**
 Abaixo estão os endpoints principais de cada microsserviço:
 
-Credit-Service: http://localhost:8081/credit
-Debit-Service: http://localhost:8082/debit
-Transfer-Service: http://localhost:8083/transfer
-Balance-Service: http://localhost:8084/balance
-Statement-Service: http://localhost:8085/statement
+1. Credit-Service: http://localhost:8081/credit
+2. Debit-Service: http://localhost:8082/debit
+3. Transfer-Service: http://localhost:8083/transfer
+4. Balance-Service: http://localhost:8084/balance
+5. Statement-Service: http://localhost:8085/statement
 
 Cada endpoint possui documentação detalhada sobre como usar os serviços fornecidos pelo microsserviço correspondente.
 
